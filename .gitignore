@@ -7,3 +7,7 @@
 
 custom-values.yaml
 **/examples/*-secret.yaml
+__pycache__/
+.venv/
+*.egg-info/
+.mypy_cache/
